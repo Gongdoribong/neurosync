@@ -279,7 +279,7 @@ def visualize_before_and_after(obj_path, gt_points, moving_pts, fixed_pts, test_
 # ==========================================
 if __name__ == "__main__":
     # 🎯 지영님의 3D 피부 모델 파일명 (절대좌표 모델)
-    SKIN_OBJ_PATH = "data/neurosync_skin_abs.obj"
+    SKIN_OBJ_PATH = "data/skin_abs.obj"
     
     # 테스트용 인위적 오차 (예: 카메라 앞에서 환자가 고개를 X축 15도 숙임)
     TEST_ROTATION = (15, 0, 0)

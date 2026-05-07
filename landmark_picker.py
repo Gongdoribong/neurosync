@@ -7,7 +7,7 @@ def on_point_picked(point):
         print(f"🎯 픽(Pick)된 3D 좌표: [{point[0]:.2f}, {point[1]:.2f}, {point[2]:.2f}]")
 
 def main():
-    file_path = "data/neurosync_skin_nose.obj"
+    file_path = "data/skin_abs.obj"
     print(f"[{file_path}] 파일을 불러오는 중...")
     
     try:

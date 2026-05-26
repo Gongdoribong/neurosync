@@ -1,0 +1,1 @@
+여기에 Segmentation-1 ~ Segmentation-2 .nii 파일 넣으시면 됩니다
